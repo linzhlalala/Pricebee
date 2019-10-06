@@ -2,6 +2,7 @@ from CrlEntry import MainSearchItem
 from flask import Flask, render_template, request 
 
 #import csv
+#wait 
 
 app = Flask(__name__) 
 
@@ -22,7 +23,6 @@ def search_products() -> str:
         the_title=title,
         the_row_titles=titles,
         the_data=results) 
-
 
 
 
