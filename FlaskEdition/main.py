@@ -2,7 +2,6 @@ from CrlEntry import MainSearchItem
 from flask import Flask, render_template, request 
 
 #import csv
-#wait 
 
 app = Flask(__name__) 
 
@@ -14,8 +13,8 @@ def entry_page() -> 'html':
 
 def search_products() -> str:
     word = request.form['word']
-    title = '比价结果' 
-    titles = ('商品', '价格', '链接', '店铺', '来源') 
+    title = 'Search result' 
+    titles = ('Product', 'Price', 'Discount', 'Unit Price', 'At') 
     results = MainSearchItem(word) 
 
     return render_template('results.html',
@@ -23,6 +22,7 @@ def search_products() -> str:
         the_title=title,
         the_row_titles=titles,
         the_data=results) 
+
 
 
 

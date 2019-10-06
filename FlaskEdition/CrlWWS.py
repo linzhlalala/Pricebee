@@ -240,4 +240,4 @@ if __name__ == '__main__':
     word1 = input('input search item:')
     searchItem(word1, a)
     input('wait for quit:')
-#wait
+
