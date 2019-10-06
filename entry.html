@@ -1,0 +1,17 @@
+{% extends 'base.html' %} 
+
+{% block body %} 
+
+<h2>{{ the_title }}</h2> 
+
+<form method='POST' action='/compare'> 
+<table> 
+    <p>请输入想要比价的商品:</p> 
+    <tr><td>商品:</td><td><input name='word' type='TEXT' width='60'></td></tr> 
+</table> 
+<p>准备好了，点击这里:</p> 
+<p><input value='Do it!' type='SUBMIT'></p> 
+</form> 
+
+{% endblock %}
+
