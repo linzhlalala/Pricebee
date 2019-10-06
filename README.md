@@ -10,5 +10,5 @@ Search Woolworths and COLES and Compare price
 Website start to run on Google App Engine Features:
 1. based on Flask.
 2. Woolworth prices from a python crawler. Real-time return prices.
-3. Coles prices from data. Fail to build a real-time crawler. Crawler data on my computer and update to server.
+3. Coles prices from data. Crawler data on my computer and upload to server.
 
