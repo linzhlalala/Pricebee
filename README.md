@@ -1,7 +1,7 @@
 # Pricebee
 Search Woolworths and Coles and Compare price
 
-##16/10/19
+## 16/10/19
 1. react frontend
 -material-UI
 -create-react-app project
@@ -13,7 +13,7 @@ Search Woolworths and Coles and Compare price
 -modified django admin to upload data weekly
 -run on google app engine
 
-##18/09/2019
+## 18/09/2019
 Website start to run on Google App Engine Features:
 1. based on Flask.
 2. Woolworth prices from a python crawler. Real-time return prices.
