@@ -1,6 +1,6 @@
 # Crawlers on python
 ## coles
-### selenium and chromedriver 
+### by selenium and chromedriver 
 1. get all category level 2 url
 - save to static and not update
 2. go over urls get all items 
