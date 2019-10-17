@@ -1,7 +1,10 @@
 # Pricebee
 Search Woolworths and Coles and Compare price
-
-## 16/10/19
+## Next stage
+- login and save watch list
+- cart and output a shopping list
+- improving experience
+## 16/10/2019
 ## Website start to run on Github.io and Google App Engine
 ### Features:
 #### react frontend on github.io
