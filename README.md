@@ -13,7 +13,7 @@ Search Woolworths and Coles and Compare price
 #### django backend on google app engine
 - django REST framework API
 - google cloud SQL
-- modified django admin to upload data weekly
+- modified django admin to enable upload data file
 #### Crawlers
 - crawler to coles and woolworths
 - save to csv
