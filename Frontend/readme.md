@@ -1,2 +1,2 @@
 #React front end
-with key components only
+1 key components only
