@@ -1,10 +1,17 @@
 # Pricebee
 Search Woolworths and COLES and Compare price
 
-##Coming soon 
-1. Build react frontend
-2. Build django REST framework backend
-3. Under debugging
+##16/10/19
+1. react frontend
+-material-UI
+-create-react-app project
+-run on github.io
+
+2. django backend
+-django REST framework API
+-google cloud SQL
+-modified django admin to upload data weekly
+-run on google app engine
 
 ##18/09/2019
 Website start to run on Google App Engine Features:
