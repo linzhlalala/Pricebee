@@ -1,5 +1,5 @@
 # Pricebee
-Search Woolworths and COLES and Compare price
+Search Woolworths and Coles and Compare price
 
 ##16/10/19
 1. react frontend
