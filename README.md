@@ -13,6 +13,10 @@ Search Woolworths and Coles and Compare price
 - modified django admin to upload data weekly
 - run on google app engine
 
+3. Crawlers
+- crawler to coles and woolworths
+- save to csv
+
 ## 18/09/2019
 Website start to run on Google App Engine Features:
 1. based on Flask.
