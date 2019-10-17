@@ -1,7 +1,7 @@
 # React front end
 ## key components only
 1. baselayout
-- baselayout of page
+- base layout of page
 2. navbar
 - show logo 
 - login and cart(under construction)
