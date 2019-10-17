@@ -1,4 +1,4 @@
-# Pricebee
+# Pricebee https://www.pricebee.net
 Search Woolworths and Coles and Compare price
 ## Next stage
 - login and save watch list
