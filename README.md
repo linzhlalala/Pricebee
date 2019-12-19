@@ -4,7 +4,7 @@ Search Woolworths and Coles and Compare price
 - login and save watch list
 - cart and output a shopping list
 - improving user experience
-## 18/12/2019
+## 18/12/2019 IMPORTANT!
 - coles crawler got problem, provide wws price only (coles data show as week 11/12/19 )
 ## 16/10/2019
 ## Website start to run on Github.io and Google App Engine
