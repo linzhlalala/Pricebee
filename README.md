@@ -1,9 +1,9 @@
-# Pricebee 
+# Pricebee https://linzhlalala.github.io/
 Search Woolworths and Coles and Compare price
-## Next stage
-- login and save watch list
-- cart and output a shopping list
-- improving user experience
+
+## 17/05/2024
+- The Back-End is off-line. 
+
 ## 16/10/2019
 ## Website start to run on Github.io and Google App Engine
 ### Features:
